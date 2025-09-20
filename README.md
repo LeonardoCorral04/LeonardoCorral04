@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LeonardoCorral04
-- 👀 I’m interested in Eectromechanical Engineering, Robotics and Machine / Deep Learning.
-- 🌱 I’m currently learning about emotional support robots and seizures prediction.
-- 💞️ I’m looking to collaborate on LLM, DenseNet or CNN projects applied to robotics.
-- 📫 How to reach me : LeonardoCorral_Sci@outlook.com
+- 👀 I’m interested in ELectromechanical Engineering, Robotics and Machine / Deep Learning.
+- 🌱 I’m currently learning about Signals Proccessing and Classical control theory.
+- 💞️ I’m looking to collaborate on Power grids and Dynamical systems projects.
+- 📫 How to reach me : LeonardoCorral_Sci@outlook.com , L22310789@tecnm.mx
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I called my cat Skiper after the penguin of Madagascar
+- ⚡ Fun fact: You should know Clubes de Ciencia México (CdeCMX) https://clubesdeciencia.mx/
 
 <!---
 LeonardoCorral04/LeonardoCorral04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
