@@ -2,7 +2,7 @@
 - 👀 I’m interested in ELectromechanical Engineering, Robotics and Machine / Deep Learning.
 - 🌱 I’m currently learning about Signals Proccessing and Classical control theory.
 - 💞️ I’m looking to collaborate on Power grids and Dynamical systems projects.
-- 📫 How to reach me : LeonardoCorral_Sci@outlook.com , L22310789@tecnm.mx
+- 📫 How to reach me : LeonardoCorral_Sci@outlook.com , L22310789@lapaz.tecnm.mx
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: You should know Clubes de Ciencia México (CdeCMX) https://clubesdeciencia.mx/
 
