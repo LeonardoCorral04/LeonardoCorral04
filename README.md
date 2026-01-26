@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LeonardoCorral04
-- 👀 I’m interested in ELectromechanical Engineering, Robotics and Machine / Deep Learning.
-- 🌱 I’m currently learning about Signals Proccessing and Classical control theory.
-- 💞️ I’m looking to collaborate on Power grids and Dynamical systems projects.
+- 👋 Hi, I’m Leonardo Corral
+- 👀 Electromechanical Engineering undergraduate interested in Modern Control and Intelligent Systems.
+- 🌱 I’m currently enrolled in Autonomous Vehicles Laboratory at TECNM La Paz.
+- 💞️ I’m looking to collaborate on Robotics and Power Grids projects.
 - 📫 How to reach me : LeonardoCorral_Sci@outlook.com , L22310789@lapaz.tecnm.mx
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: You should know Clubes de Ciencia México (CdeCMX) https://clubesdeciencia.mx/
+- ⚡ Fun fact: You should know about Clubes de Ciencia México (CdeCMX): https://clubesdeciencia.mx/ . An special program that has helped me in my academic fomation.
 
 <!---
 LeonardoCorral04/LeonardoCorral04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
